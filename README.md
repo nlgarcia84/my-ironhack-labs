@@ -65,3 +65,10 @@ Empezamos el módulo de vue:
 - Como levantar un servidor local con vue.
 - Como injectar datos al html a través de los componentes.
 - Directivas de texto, de html y bindeo.
+
+# MARTES 29
+
+# JUEVES 1
+
+Corrección del ejercicio Tweets
+Computed properties
