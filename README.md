@@ -68,7 +68,25 @@ Empezamos el módulo de vue:
 
 # MARTES 29
 
+Condicionales en vue.
+Iterando en vue con directiva v-for.
+
+# MIERCOLES 30
+
+Metodos en vue.
+
+
 # JUEVES 1
 
 Corrección del ejercicio Tweets
 Computed properties
+
+# VIERNES 2
+
+Acabamos de ver el tema de los Eventos en vue y estudiamos los hooks.
+
+#LUNES 5
+
+State Management con Pinia.
+Intro a Supabase.
+Setup del Final Project.
